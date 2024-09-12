@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    src: url('FONTSPRINGDEMO-IntegralCFBoldRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-IntegralCFBoldRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-IntegralCFBoldRegular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF Demi';
+    src: url('FONTSPRINGDEMO-IntegralCFDemiBoldRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-IntegralCFDemiBoldRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-IntegralCFDemiBoldRegular.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF Extra';
+    src: url('FONTSPRINGDEMO-IntegralCFExtraBoldRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-IntegralCFExtraBoldRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-IntegralCFExtraBoldRegular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    src: url('FONTSPRINGDEMO-IntegralCFHeavyRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-IntegralCFHeavyRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-IntegralCFHeavyRegular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    src: url('FONTSPRINGDEMO-IntegralCFMediumRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-IntegralCFMediumRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-IntegralCFMediumRegular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    src: url('FONTSPRINGDEMO-IntegralCFRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-IntegralCFRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-IntegralCFRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Moula';
+    src: url('Moula-Black.woff2') format('woff2'),
+        url('Moula-Black.woff') format('woff'),
+        url('Moula-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Moula';
+    src: url('Moula-Bold.woff2') format('woff2'),
+        url('Moula-Bold.woff') format('woff'),
+        url('Moula-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Moula';
+    src: url('Moula-Light.woff2') format('woff2'),
+        url('Moula-Light.woff') format('woff'),
+        url('Moula-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Moula Med';
+    src: url('Moula-Medium.woff2') format('woff2'),
+        url('Moula-Medium.woff') format('woff'),
+        url('Moula-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Moula';
+    src: url('Moula-Regular.woff2') format('woff2'),
+        url('Moula-Regular.woff') format('woff'),
+        url('Moula-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Moula';
+    src: url('Moula-Thin.woff2') format('woff2'),
+        url('Moula-Thin.woff') format('woff'),
+        url('Moula-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
