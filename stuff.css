@@ -1,0 +1,514 @@
+.container {
+    width: 1200px;
+    margin: 0px auto;
+}
+body {
+    margin: 0px;
+}
+.main-top-bar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.main-top-bar .top-bar-col-1 img {
+    width: 117px;
+    height: auto;
+}
+.top-bar {
+    padding: 10px;
+}
+.main-top-bar .top-bar-col-2 nav a {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    font-style: normal;
+    padding: 24px;
+    font-size: 16px;
+    color: #000;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.sec-1 {
+    background-image: url(/stuffthebus/images/home-banner-top.webp);
+}
+.main-sec-1 .main-sec-col-1 h3 {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    font-style: normal;
+    font-weight: 900;
+    color: #fff;
+    text-align: center;
+    font-size: 72px;
+    margin: 0px;
+    text-transform: uppercase;
+    line-height: 86px;
+}
+.main-sec-1 .main-sec-col-1 h5 {
+    font-family: 'Moula';
+    text-align: center;
+    font-size: 32px;
+    color: #000;
+    font-weight: 600;
+    margin: auto;
+    line-height: 35px;
+    max-width: 312px;
+}
+.main-sec-1 .main-sec-col-1 p {
+    text-align: center;
+    padding-bottom: 15px;
+}
+.main-sec-1 .main-sec-col-1 p a {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 100%;
+    margin-top: 45px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #000000;
+    padding: 10px 30px 15px 30px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+.sec-1 {
+    background-image: url(/stuffthebus/images/home-banner-top.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec-1 .blur-color {
+    background-image: linear-gradient(360deg, #F28433 0%, #F2843375 54.69%);
+}
+.second-sec .second-sec-col-1 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: auto;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.second-sec .second-sec-col-1 h3 {
+    font-family: 'FONTSPRING DEMO - Integral CF Extra';
+    text-align: center;
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 77px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-bottom: 70px;
+    margin-top: 5px;
+}
+.second-sec .second-sec-col-1 p {
+    font-family: 'Moula';
+    text-align: center;
+    color: #000000;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 26px;
+    margin: 20px auto;
+    max-width: 790px;
+}
+.second-sec .second-sec-col-1 a {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    font-size: 16px;
+    color: #000000;
+    line-height: 10px;
+    background-color: #F28433;
+    padding: 15px 30px 15px 30px;
+    display: inline-block;
+    margin-top: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.slider-sec {
+    background-color: #F28433;
+    padding-top: 100px;
+}
+.main-slider .slider-col-1 h2 {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+}
+.main-last-sec {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-last-sec .last-sec-col-1 h3 {
+    font-family: 'FONTSPRING DEMO - Integral CF Extra';
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 77px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 70px;
+    color: #000000;
+}
+.main-last-sec .last-sec-col-1 p {
+    font-family: 'Moula';
+    font-style: normal;
+    font-size: 24px;
+    line-height: 26px;
+    font-weight: 600;
+    text-align: center;
+    color: #000000;
+    margin: 20px auto;
+}
+.main-last-sec .last-sec-col-1 p a {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    background-color: #F28433;
+    padding: 15px 30px 15px 30px;
+    display: inline-block;
+    margin-top: 40px;
+    color: #000000;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.main-last-sec .last-sec-col-2 img {
+    width: 630px;
+    height: auto;
+}
+.main-botom-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bottom-bar {
+    background-color: #000000;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+.main-botom-bar .bottom-bar-col-1 img {
+    width: 117px;
+    height: auto;
+}
+.main-botom-bar .bottom-bar-col-1 {
+    width: 20%;
+    text-align: center;
+}
+.main-botom-bar .bottom-bar-col-2 {
+    width: 60%;
+}
+.main-botom-bar .bottom-bar-col-3 {
+    width: 20%;
+}
+.main-botom-bar .bottom-bar-col-2 nav a {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding: 13px 20px;
+    color: #ffffff;
+}
+.bottom-bar-col-3 p {
+    font-family: 'Moula';
+    font-size: 18px;
+    color: #7a7a7a;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.bottom-bar-col-3 a {
+    color: #ffffff;
+    font-size: 24px;
+}
+.bottom-bar-col-3 a i.fa.fa-facebook-official {
+    border: 1px solid #3b5998;
+    padding: 10px;
+    background-color: #3b5998;
+}
+.bottom-bar-col-3 a i.fa.fa-instagram {
+    border: 1px solid #262626;
+    padding: 10px;
+    background-color: #262626;
+}
+.icons {
+    text-align: center;
+}
+.bottom-bar-2 p {
+    font-family: 'Moula';
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 17px;
+    padding-top: 20px;
+}
+.slider-col-2 a {
+    padding: 20px;
+}
+.slider-col-2 .slick-slider {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.second-sec-col-2 .slick-slider1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.second-sec-col-2 a img {
+    width: 90%;
+    padding-bottom: 30px;
+}
+.main-top-bar .togglebtn {
+    display: none;
+}
+.slick-prev, .slick-next {
+    background-color: #F28433;
+    border: none;
+    color: white;
+    font-size: 24px;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    z-index: 1000;
+}
+
+.slick-prev {
+    left: -40px;
+}
+
+.slick-next {
+    right: -20px;
+}
+
+.slick-prev:hover, .slick-next:hover {
+    background-color: #ffffff;
+    color: #F28433;
+}
+.second-sec-col-2 {
+    padding-left: 16px;
+}
+.slick-dots {
+    position: absolute;
+    bottom: -30px;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.slick-dots li {
+    margin: 0 5px;
+}
+
+.slick-dots li button {
+    border: none;
+    background-color: #000000;
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    cursor: pointer;
+    font-size: 0;
+}
+
+.slick-dots li.slick-active button {
+    background-color: #cccccc;
+}
+.sec-2 {
+    padding-bottom: 50px;
+}
+.main-slider {
+    padding-bottom: 50px;
+}
+.main-last-sec {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.last-sec-col-2 {
+    background-image: url('/stuffthebus/images/lastimg.webp'); /* Replace with the actual path to your image */
+    background-size: cover;     /* Ensures the image covers the entire div */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents repeating */
+    height: 100%;               /* Adjust height as needed, or specify a value */
+    min-height: 666px;          /* Ensure minimum height if content is less */
+    width: 50%;
+}
+.last-sec-col-1 {
+    width: 50%;
+}
+.last-sec-col-2 .image-overlay {
+    position: absolute;
+    background-image: linear-gradient(360deg, #F28433 0%, #F2843375 54.69%);
+    width: 50%;
+    height: 666px;
+}
+
+
+
+
+
+@media only screen and (max-width: 480px){
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+}
+.top-bar-col-2 {
+    display: none;
+}
+.main-top-bar .top-bar-col-1 img {
+    max-width: 100%;
+    height: auto;
+}
+div#toggle-menu {
+    position: absolute;
+    top: 132px;
+    background-color: #ffffff;
+    left: 0;
+    padding-right: 108px;
+}
+div#toggle-menu nav.menu a {
+    color: #000000;
+    font-size: 16px;
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 20px;
+    padding: 10px 20px;
+}
+.main-top-bar .togglebtn {
+    display: block;
+}
+div#toggle-menu nav a {
+    display: block;
+}
+.toggle-menu {
+    display: none;
+}
+
+.toggle-button {
+    display: block;
+}
+.menu {
+    flex-direction: column;
+  }
+.togglebtn div#toggle-button i.fa.fa-bars {
+    font-size: 60px;
+    color: #f28632;
+}
+.main-top-bar {
+    padding-top: 30px;
+}
+.main-sec-1 .main-sec-col-1 h3 {
+    font-size: 32px;
+    line-height: 38px;
+    margin-bottom: 20px;
+}
+.sec-1 {
+    background-image: url(/stuffthebus/images/mobileimg1.webp);
+}
+.main-sec-1 {
+    padding: 200px 0px;
+}
+.second-sec .second-sec-col-1 img {
+    width: 215px;
+    padding-top: 80px;
+}
+.second-sec .second-sec-col-1 h3 {
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+.second-sec .second-sec-col-1 p {
+    max-width: 305px;
+    font-size: 16px;
+}
+.main-slider .slider-col-1 h2 {
+    font-size: 24px;
+    line-height: 29px;
+    max-width: 310px;
+    margin: auto;
+}
+.main-last-sec .last-sec-col-1 h3 {
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: left;
+    padding-left: 35px;
+    margin-top: 40px;
+}
+.main-last-sec .last-sec-col-1 h3 {
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: left;
+    padding-left: 35px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.main-last-sec .last-sec-col-1 p {
+    font-size: 16px;
+    max-width: 305px;
+    text-align: left;
+    padding-left: 35px;
+    margin: 0px;
+}
+.main-last-sec .last-sec-col-1 p a {
+    padding: 16px 30px 16px 30px;
+    color: #ffffff !important;
+    background-color: #000000;
+}
+.bottom-bar {
+    margin-top: 90px;
+}
+.main-botom-bar {
+    display: block;
+}
+.bottom-bar-col-2 nav a {
+    display: block;
+}
+.main-botom-bar .bottom-bar-col-1 {
+    width: 100%;
+    text-align: center;
+}
+.main-botom-bar .bottom-bar-col-2 {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.main-botom-bar .bottom-bar-col-3 {
+    width: 100%;
+}
+.main-botom-bar .bottom-bar-col-2 nav a {
+    padding: 13px 20px;
+    line-height: 64px;
+}
+.bottom-bar-2 p {
+    padding-top: 60px;
+}
+.second-sec-col-2 {
+    padding: 50px;
+}
+.second-sec-col-2 a img {
+    width: 100%;
+    padding-bottom: 30px;
+}
+.slick-next {
+    right: -40px;
+}
+.slider-col-2 {
+    padding: 50px;
+}
+.slider-col-2 a img {
+    width: 100%;
+}
+.last-sec-col-2 {
+    display: none;
+}
+.last-sec-col-1 {
+    width: 100%;
+}
+}
